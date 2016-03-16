@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Remko Dirkmaat]]></title>
         <description><![CDATA[Remko Dirkmaat]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/remko-dirkmaat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 20:39:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 21:04:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/remko-dirkmaat/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Remko Dirkmaat is a Creative Entrepreneur at heart. Due to a passion for everything that is on the intersection of Concepts, Startups, Design, Technology and Food, he loves helping others to realize their dreams. He is therefor the Creative Director at Codeless Technology - a software development company that has created the 'Smart Software Cloning' Concept -, as well as CO-Founder of Instagreen.eu, a company that grows vegetables locally in a beautiful designed incubator.</p>]]></description>
-            <link>undefinedremko-dirkmaat-is-a-creative-entrepreneur-at-heart-due-to-a/index.html</link>
+            <link>https://thegrid.ai/remko-dirkmaat/remko-dirkmaat-is-a-creative-entrepreneur-at-heart-due-to-a/index.html</link>
             <guid isPermaLink="false">12a59394-88a6-41e3-ae52-c05a023c5632</guid>
-            <pubDate>Wed, 16 Mar 2016 20:39:46 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2016 21:04:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
