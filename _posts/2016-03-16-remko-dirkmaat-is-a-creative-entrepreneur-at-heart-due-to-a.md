@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Remko Dirkmaat is a Creative Entrepreneur at heart. Due to a passion for everything that is on the intersection of Concepts, Startups, Design, Technology and Food, he loves helping others to realize their dreams.\_He is therefor the\_Creative Director at Codeless Technology - a software development company that has created the 'Smart Software Cloning' Concept -, as well as CO-Founder of\_Instagreen.eu, a company that grows vegetables locally in a beautiful designed incubator."
-datePublished: '2016-03-16T20:39:46.909Z'
-dateModified: '2016-03-16T20:39:04.970Z'
+datePublished: '2016-03-16T21:04:01.129Z'
+dateModified: '2016-03-16T21:03:47.244Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-16-remko-dirkmaat-is-a-creative-entrepreneur-at-heart-due-to-a.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-remko-dirkmaat-is-a-creative-entrepreneur-at-heart-due-to-a.md
-published: true
 url: remko-dirkmaat-is-a-creative-entrepreneur-at-heart-due-to-a/index.html
 _type: Article
 
