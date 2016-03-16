@@ -1,7 +1,7 @@
 name: Remko Dirkmaat
 favicon: null
-layout_spectrum: 0.9422342616599053
-typography_spectrum: 0.5957836569286883
+layout_spectrum: 0.50835
+typography_spectrum: 0.18176
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.16215419000945985
+    - '#000000'
+    - '#aea586'
+    - '#f5ddc3'
+    - '#3a5e82'
+    - '#763a28'
+  brandStrength: 0.5625
   lightness: 0.5461880308575928
-  saturation: 0.5455234760884196
+  saturation: 0.5
   rhythmicContrast: 0.8211959865875542
 purpose: []
